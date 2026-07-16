@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**joeldot-blip/joeldot-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Joel Campbell and I love building efficient automations for B2B and B2C businesses so that owners can spend less time on trivial tasks and focus more on increasing revenue, chasing new opportunities etc.
 
-Here are some ideas to get you started:
+My proficiencies include:
+~Python
+~Javascript
+~n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you'd like to reach out to me, kindly do so through the following channels:
+~email: itsjoelsworkemail@gmail.com
+~X (formerly Twitter): @baxpip
+~Instagram: @baxpip
+~Telegram: @baxpip
+
+Looking forward to working together!
