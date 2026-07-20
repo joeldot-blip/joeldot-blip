@@ -5,6 +5,7 @@ My name is Joel Campbell and I love building efficient automations for B2B and B
 My proficiencies include:
 ~Python
 ~Javascript
+~Shell scripting
 ~n8n
 
 If you'd like to reach out to me, kindly do so through the following channels:
